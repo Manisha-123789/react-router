@@ -1,0 +1,55 @@
+/* Navbar container styling */
+ul {
+    background-color: #ffffff; /* Dark navy */
+    padding: 10px 20px;
+    box-shadow: 0 4px 15px rgba(140, 140, 140, 0.5);
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    list-style: none;
+    margin: 0;
+    border-radius: 8px;
+    color: black;
+}
+
+/* List item spacing */
+ul li {
+    padding: 10px 15px;
+}
+
+/* Reset default link styles and increase font size */
+ul li .nav-link {
+    color: #006a7d; /* Light grey text */
+    text-decoration: none; /* Removes underline */
+    font-size: 20px; /* Increased font size */
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Smooth hover effect */
+ul li .nav-link:hover {
+    color: #f8f8f8;
+    background: #3a86ff; /* Soft blue hover */
+    box-shadow: 0 0 10px rgba(58, 134, 255, 0.8);
+    transform: translateY(-2px);
+}
+
+/* Active link styling */
+ul li .nav-link.active {
+    color: #ffffff;
+    background: #f77f00; /* Warm orange for active link */
+    box-shadow: 0 0 12px rgba(247, 127, 0, 0.8);
+    transform: scale(1.05);
+}
+
+/* Mobile-friendly adjustments */
+@media (max-width: 600px) {
+    ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}

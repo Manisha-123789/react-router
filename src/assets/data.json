@@ -1,0 +1,104 @@
+{
+    "jobs": [
+        {
+            "job_id": "JOB-20231027-001",
+            "title": "Software Engineer (Backend)",
+            "company": "Tech Solutions Inc.",
+            "location": "San Francisco, CA",
+            "department": "Engineering",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 1
+        },
+        {
+            "job_id": "JOB-20231027-002",
+            "title": "Data Scientist",
+            "company": "Data Insights Corp.",
+            "location": "New York, NY",
+            "department": "Data Science",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 2
+        },
+        {
+            "job_id": "JOB-20231027-003",
+            "title": "Marketing Manager",
+            "company": "Global Marketing Agency",
+            "location": "London, UK",
+            "department": "Marketing",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 3
+        },
+        {
+            "job_id": "JOB-20231027-004",
+            "title": "Sales Representative",
+            "company": "Sales Dynamics Ltd.",
+            "location": "Chicago, IL",
+            "department": "Sales",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 4
+        },
+        {
+            "job_id": "JOB-20231027-005",
+            "title": "Project Manager",
+            "company": "Project Management Solutions",
+            "location": "Toronto, ON",
+            "department": "Project Management",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 5
+        },
+        {
+            "job_id": "JOB-20231027-006",
+            "title": "UX Designer",
+            "company": "Design Innovations",
+            "location": "Seattle, WA",
+            "department": "Design",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 6
+        },
+        {
+            "job_id": "JOB-20231027-007",
+            "title": "Financial Analyst",
+            "company": "Finance Global",
+            "location": "Singapore",
+            "department": "Finance",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 7
+        },
+        {
+            "job_id": "JOB-20231027-008",
+            "title": "HR Manager",
+            "company": "People Solutions Group",
+            "location": "Sydney, AU",
+            "department": "Human Resources",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 8
+        },
+        {
+            "job_id": "JOB-20231027-009",
+            "title": "Customer Support Specialist",
+            "company": "Customer First Inc.",
+            "location": "Austin, TX",
+            "department": "Customer Support",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 9
+        },
+        {
+            "job_id": "JOB-20231027-010",
+            "title": "Network Engineer",
+            "company": "Network Technologies Ltd.",
+            "location": "Dallas, TX",
+            "department": "IT",
+            "posted_date": "2023-10-27",
+            "status": "Open",
+            "id": 10
+        }
+    ]
+}
